@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost:8000/sitemap.xml
+Sitemap: https://pages.github.com/infidbp5_19/sitemap.xml
