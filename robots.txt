@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://pages.github.com/infidbp5_19/sitemap.xml
+Sitemap: https://csaf4370.github.io/infidbp5_19/sitemap.xml
